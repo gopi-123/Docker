@@ -1,5 +1,4 @@
-# Docker
-Dockerize your Python Application
+
 
 ##  Install Docker from Ubuntu Repository
 https://linuxconfig.org/how-to-install-docker-on-ubuntu-18-04-bionic-beaver
@@ -14,4 +13,3 @@ All done.
 
 $ docker --version
 Docker version 17.03.2-ce, build f5ec1e2
-

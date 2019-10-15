@@ -28,7 +28,7 @@ $docker run docker-example
 
 Additional notes:
 Incase to run dockerfile without cache following are the commands:
-# add this below line into your docker file from the point you don't need caching, save it and execute  :
+## add this below line into your docker file from the point you don't need caching, save it and execute  :
 ARG CACHEBUST=1 
 
 Commands to execute:
